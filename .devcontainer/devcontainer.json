@@ -18,7 +18,8 @@
 				"ms-vscode-remote.vscode-remote-extensionpack",
 				"eamodio.gitlens",
 				"GitHub.copilot",
-				"vscode-peacock"
+				"vscode-peacock",
+				"styled-components.vscode-styled-components"
 			]
 		}
 	},
